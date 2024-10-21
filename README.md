@@ -1,9 +1,9 @@
 # Machine Learning on AIRBNB data
 
-In this repository we will apply some Machine Learning to an Airbnb dataset of the houses in Madrid. The ML we will apply:
+In this repository we will apply some Machine Learning to an Airbnb dataset of houses in Madrid. The ML we will apply:
 
-* Bayes
-* KNN 
+* Naives Bayes
+* K-Nearest Neighbors (KNN) 
 * Decision Trees
 * Support Vector Machines (SVM)
   * Classifier:
