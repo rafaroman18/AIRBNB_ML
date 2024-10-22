@@ -19,15 +19,15 @@ Some of the tasks we will do in preprocessing:
 
 * **Distribution analysis**
   
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 
 * **Correlation Matrix**
 
- ![Alt text](image-2.png)
+ ![Alt text](images/image-2.png)
 
 * **Box and whisker plot**
 
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
 
 * **Scale values (StandardScaler)**
 * **Trasform Pipeline (for scaling)**
