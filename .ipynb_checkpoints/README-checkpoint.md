@@ -12,21 +12,3 @@ In this repository we will apply some Machine Learning to an Airbnb dataset of h
   * Regression:
     * LinearSVR
     * LinearSVR with RBF Kernel
-
-## Preprocessing
-
-Some of the tasks we will do in preprocessing:
-
-* **Distribution analysis**
-  
-![Alt text](image-1.png)
-
-* **Correlation Matrix**
-
- ![Alt text](image-2.png)
-
-* **Scale values (StandardScaler)**
-* **Trasform Pipeline (for scale)**
-* **Removing attributes**
-
-
