@@ -25,8 +25,12 @@ Some of the tasks we will do in preprocessing:
 
  ![Alt text](image-2.png)
 
+* **Box and whisker plot**
+
+![Alt text](image-3.png)
+
 * **Scale values (StandardScaler)**
-* **Trasform Pipeline (for scale)**
+* **Trasform Pipeline (for scaling)**
 * **Removing attributes**
 
 
