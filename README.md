@@ -1,6 +1,22 @@
-# Machine Learning on AIRBNB data
+# Classification and Regression on AIRBNB data
 
-In this repository we will apply some Machine Learning to an Airbnb dataset of houses in Madrid. The ML we will apply:
+In this repository we will apply some Machine Learning to **classify/perform regression** on an Airbnb dataset which contains rooms that were available to rent in Madrid, Spain. 
+
+The attributes of this dataset are: 
+* room_type
+* price
+* latitude 
+* altitude
+* minimum nights
+* total reviews  
+* availability
+* calculated_host_listings_count
+  
+<br>
+
+We will **classify** ```room_type``` based on the other attributes. Also, we will use ```price``` as the **dependent variable** and the other ones as **independent** while performing **regression**.
+
+The Machine Learning Models we will apply are:
 
 * Naives Bayes
 * K-Nearest Neighbors (KNN) 
@@ -15,7 +31,7 @@ In this repository we will apply some Machine Learning to an Airbnb dataset of h
 
 ## Preprocessing
 
-Some of the tasks we will do in preprocessing:
+Some of the tasks we will do in preprocessing are:
 
 * **Distribution analysis**
   
@@ -32,5 +48,6 @@ Some of the tasks we will do in preprocessing:
 * **Scale values (StandardScaler)**
 * **Trasform Pipeline (for scaling)**
 * **Removing attributes**
+
 
 
