@@ -1,10 +1,25 @@
 # Classification and Regression on AIRBNB data
 
->[!NOTE]
-The main files of this repository are hosted in "notebooks" folder. If you want to take a look at the analysis and results obtained, you can check them out.
-
+# Introduction 
 
 In this repository we will apply some Machine Learning to **classify/perform regression** on an Airbnb dataset which contains rooms that were available to rent in Madrid, Spain. 
+
+# Models
+
+The Machine Learning Models we will apply are:
+
+* Naives Bayes
+* K-Nearest Neighbors (KNN) 
+* Decision Trees
+* Support Vector Machines (SVM)
+  * Classifier:
+    * LinearSVC 
+    * SVC with RBF Kernel
+  * Regression:
+    * LinearSVR
+    * SVR with RBF Kernel
+
+# Dataset
 
 The attributes of this dataset are: 
 * room_type
@@ -20,20 +35,9 @@ The attributes of this dataset are:
 
 We will **classify** ```room_type``` based on the other attributes. Also, we will use ```price``` as the **dependent variable** and the other ones as **independent** while performing **regression**.
 
-The Machine Learning Models we will apply are:
+Also, we will be using jupyter notebooks during the process to **analyse the data, visualize the results and explain each section** all in the same file. We will be performing Bayes, KNN and Decision Trees in the first file and SVM in the second
 
-* Naives Bayes
-* K-Nearest Neighbors (KNN) 
-* Decision Trees
-* Support Vector Machines (SVM)
-  * Classifier:
-    * LinearSVC 
-    * LinearSVC with RBF Kernel
-  * Regression:
-    * LinearSVR
-    * LinearSVR with RBF Kernel
-
-## Preprocessing
+# Preprocessing
 
 Some of the tasks we will do in preprocessing are:
 
@@ -53,5 +57,6 @@ Some of the tasks we will do in preprocessing are:
 * **Trasform Pipeline (for scaling)**
 * **Removing attributes**
 
+# Results
 
-
+The results, analysis and explanation are available in each notebook.
