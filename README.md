@@ -1,6 +1,7 @@
 # Classification and Regression on AIRBNB data
-
-    The main files of this repository are hosted in "notebooks" folder if you want to take a look at the analysis and results obtained.
+```
+The main files of this repository are hosted in "notebooks" folder if you want to take a look at the analysis and results obtained.
+```
 
 In this repository we will apply some Machine Learning to **classify/perform regression** on an Airbnb dataset which contains rooms that were available to rent in Madrid, Spain. 
 
