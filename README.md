@@ -1,7 +1,5 @@
 # Classification and Regression on AIRBNB data
 
-# Introduction 
-
 In this repository we will apply some Machine Learning to **classify/perform regression** on an Airbnb dataset which contains rooms that were available to rent in Madrid, Spain. 
 
 # Models
@@ -60,3 +58,7 @@ Some of the tasks we will do in preprocessing are:
 # Results
 
 The results, analysis and explanation are available in each notebook.
+
+---
+2024 - 
+[rafaroman18](https://github.com/rafaroman18)
